@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary-color: #FFB6C1;
+  --secondary-color: lightblue;
+  --background-primary-color: white;
+}
+
+* {
+  box-sizing: border-box;
+}
